@@ -32,11 +32,11 @@ Angular CDK version 8.2.3.
     github.com/yvafdevnsk  
       Repositories  
         New  
-          Repository name: primeng-table-selection-with-checkbox  
+          Repository name: custom-sort  
 
 ## Pushing to Remote Repository ([Push Ref Specifications](https://wiki.eclipse.org/EGit/User_Guide#Push_Ref_Specifications))
 
-    primeng-table-selection-with-checkbox  
+    custom-sort  
       Remotes  
         Create Remote...  
           New Remote Dialog  
@@ -45,7 +45,7 @@ Angular CDK version 8.2.3.
           Configure Push Dialog  
             Change...  
               Host: github.com  
-              Repository path: /yvafdevnsk/primeng-table-selection-with-checkbox  
+              Repository path: /yvafdevnsk/custom-sort  
               Protocol: https  
               Port: (empty)  
             Advanced...  
@@ -58,7 +58,7 @@ Angular CDK version 8.2.3.
 
 ## Fetching from Remote Repository ([Fetch Ref Specifications](https://wiki.eclipse.org/EGit/User_Guide#Fetch_Ref_Specifications))
 
-    primeng-table-selection-with-checkbox  
+    custom-sort  
       Remotes  
         origin  
           fetch  
@@ -83,14 +83,14 @@ Your Identity ([1.6 Getting Started - First-Time Git Setup](https://git-scm.com/
 ## Clone a Git repository
 
 Host: github.com  
-Repository path: /yvafdevnsk/primeng-table-selection-with-checkbox  
+Repository path: /yvafdevnsk/custom-sort  
 Protocol: https  
   
-Destination: /home/mizuki/workspace/github/primeng-table-selection-with-checkbox-clone  
+Destination: /home/mizuki/workspace/github/custom-sort  
 
 ## Run application
 
     $ pwd  
-    /home/mizuki/workspace/github/primeng-table-selection-with-checkbox-clone  
+    /home/mizuki/workspace/github/custom-sort  
     $ npm install  
     $ npx ng serve --open  
